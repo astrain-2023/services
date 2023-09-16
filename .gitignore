@@ -1,0 +1,13 @@
+
+# moon
+.moon/cache
+.moon/docker
+
+# moon
+.moon/cache
+.moon/docker
+
+bin
+build
+.gradle
+producers/src/main/resources/data/
